@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+
+# Virtual Environments
+venv/
+.env/
+.venv/
+ENV/
+env/
+
+# Data
+data/
+!data/.gitkeep
+
+# Model Checkpoints
+outputs/checkpoints/
+
+# OS / Editor Junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# WSL / Linux temp files
+*.swp
+*.swo
+*~
+
